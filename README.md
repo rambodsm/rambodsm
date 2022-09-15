@@ -10,6 +10,7 @@
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rambodsm)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rambodsm/)
   
+  
 </span>
 
 <h2>👤 About Me</h2>
@@ -18,10 +19,10 @@
 
 <ul>
     <li> 😎 I’m Rambod, a mid-level backend developer and creative coder</li>
-    <li> 🌱 I'm currently learning vue.js and Database performance tuning</li>
-    <li> 💬 Let's talk about Software architecture, C#, Asp.net Core</li>
+    <li> 🌱 I'm currently learning vue.js and database performance tuning</li>
+    <li> 💬 Let's talk about Software Architecture, C#, Asp.net Core</li>
 </ul>
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=rambodsm.rambodsm">
 </span>
 
 <h2>⌨️ Skills</h2>
