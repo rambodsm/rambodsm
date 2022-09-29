@@ -1,4 +1,4 @@
-[![Hi, I'm Duart Breedt](./Bohemian.jpeg)](#)
+[![Hi, I'm Rambod](./Bohemian.jpeg)](#)
 
 <span align="center">
   
